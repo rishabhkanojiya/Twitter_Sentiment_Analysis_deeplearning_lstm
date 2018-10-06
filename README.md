@@ -7,10 +7,10 @@ consumer_secret= 'your consumer_secret'
 access_token='your access_token'
 access_token_secret='your access_token_secret'
 
-#Training the Model
+**Training the Model**
 Execute the "Training.py" to begin the training process The model is trained on the multi-sentiment dataset Which is then saved into "model.json" and the weights are save as "model.h5"
 
-#Val&json.ipynb
+**Val&json.ipynb**
 Open and put any user name and it will save hte data in json file
 
 
