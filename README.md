@@ -2,9 +2,12 @@
 Sentiment Analysis is done by using Deep Learning RNN(LSTM).The Dataset used is The multi-sentiment Dataset
 
 consumer_key= 'your consumer_key'
+
 consumer_secret= 'your consumer_secret'
 
+
 access_token='your access_token'
+
 access_token_secret='your access_token_secret'
 
 **Training the Model**
